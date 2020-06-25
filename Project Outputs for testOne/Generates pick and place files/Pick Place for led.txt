@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\testOne\Project Outputs for testOne\Generates pick and place files\Pick Place for led.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/06/20
+Time:       16:18
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer       Footprint  Center-X(mil) Center-Y(mil) Rotation Description                                                                             
+R2         360R         BottomLayer RESISTOR   669.291       629.921       90       "Res Thick Film 0805 360 Ohm 1% 0.125W(1/8W) ±100ppm/C Molded SMD Automotive Paper T/R" 
+D2         Green        BottomLayer LED0603G   669.291       256.398       90       "Standard LEDs - SMD Green Non-Diffused"                                                
+R1         360R         TopLayer    RESISTOR   236.220       550.197       90       "Res Thick Film 0805 360 Ohm 1% 0.125W(1/8W) ±100ppm/C Molded SMD Automotive Paper T/R" 
+J1         "1x2 Header" TopLayer    HEADER_1X2 570.866       424.016       0        "Conn Wire to Board HDR 2 POS 2.54mm Solder ST Thru-Hole Bag"                           
+D1         Green        TopLayer    LED0603G   236.220       283.957       90       "Standard LEDs - SMD Green Non-Diffused"                                                
